@@ -261,6 +261,9 @@ cite, em {
   margin-bottom: 22px;
   max-width: 100%
 }
+.bgmusic {
+  display: none;
+}
 
 /*
   ========================================
@@ -504,7 +507,4 @@ textarea {
 }
 .register-group textarea {
   height: 78px;
-}
-.bgmusic {
-display: none;
 }
